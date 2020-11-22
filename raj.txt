@@ -1,0 +1,15 @@
+       standard_time_of_existing_process  standard_time_of_proposed_process
+count                           7.000000                           7.000000
+mean                           18.054286                          14.176629
+std                             5.603240                           3.916299
+min                            10.660000                           8.940000
+25%                            14.400000                          11.555000
+50%                            18.690000                          13.933800
+75%                            21.290000                          17.119000
+max                            25.650000                          19.014600
+person correlation             0.9858930
+degree of freedom              6
+
+ 	----- paired t-test  ------
+p-value                        0.0014987
+statistic                      5.5115439
